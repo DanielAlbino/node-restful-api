@@ -1,5 +1,3 @@
-https://www.codementor.io/@olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd
-
 # What is a REST API?
 
 Is an acronym for Representational State Transfer. It's a web standard architecture and HTTP Protocol. The REST architectural style describes six constrains that were originally communicated by Roy Fielding in his doctoral dissertation and defines the basis of RESTFULL style as:
