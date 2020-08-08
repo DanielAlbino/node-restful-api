@@ -14,12 +14,14 @@ Is an acronym for Representational State Transfer. It's a web standard architect
 RESTful applications use HTTP requests to perform four operations termed as CRUD (C: create, R: read, U: update, and D: delete).
 
 **TOOLS**
+
 Node.js
 MongoDB
 Text editor (Visual Studio Code, Atom, Sublime, etc)
 Postman or Insomnia
 
 **Getting started**
+
 To get start you must have the node.js and mongodb installed on your machine. if not you can go to the following links and install it:
 
 https://nodejs.org/en/
