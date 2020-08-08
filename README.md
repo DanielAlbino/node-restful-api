@@ -207,6 +207,7 @@ So to do this we are going to the userRoutes.js file and add the following code.
 ```
 
 **Controller setup**
+
 Now we are goin to the usersController.js file to create 5 diferente functions, list_all_users, create_a_user, read_a_user, update_a_user and delete_a_user.
 We will export each of the functions for us to use in our routes.
 Each of these functions uses diferent mongoose methods such as find, findById, findOneAndUpdate, save and remove.
@@ -266,6 +267,7 @@ Each of these functions uses diferent mongoose methods such as find, findById, f
 ```
 
 **Server.js**
+
 Now that we alreadyconfigured all the files, it is time to go back to our server.js to add a litle more code. What we are going to do now, is to create our connection to the database, load our models and we are going to install bodyParser.
 
 BodyParser:
